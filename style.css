@@ -1,0 +1,13 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.judul{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.isi{
+    padding: 20px;
+    background-color: beige;
+}
