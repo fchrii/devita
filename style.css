@@ -1,13 +1,40 @@
 body{
     font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+}
+
+th{
+    text-align: left;
+}
+
+img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.outline{
+    border: 1px solid black;
+    width: 60%;
+    margin: 10px auto;
+    padding: 20px;
 }
 
 .judul{
     text-align: center;
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
 }
 
-.isi{
-    padding: 20px;
-    background-color: beige;
+.blok{
+    overflow: hidden;
+}
+
+.kiri{
+    width: 20%;
+    float: left;
+}
+
+.kanan{
+    width: 70%;
+    padding: 0px 20px;
+    float: left;
 }
